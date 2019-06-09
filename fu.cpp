@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <ctime>
-#include <algorithm> 
+#include <algorithm>
+#include <cstring> 
 using namespace std;
 #define MAX 100000
 #define FREQ 5
